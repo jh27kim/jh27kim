@@ -1,5 +1,5 @@
 # Project Description
-## For more detail, please check readme of the corresponding project 
+## For more detail, please click on the link 
 
 ### Project are listed in time descending order
 
@@ -13,14 +13,18 @@
 
 
 1. 3D Line Cloud (Ongoing)
-   - First nested list item
-     - Second nested list item
+   - Privacy Preserving Line Cloud: No details about this project can be revealed yet ! Will be uploaded later this year 2022.
 
 2. Twitter Dashboard (Ongoing)
-   - Front (vue.js): 
-   - Backend (spring):
+   - [Front (vue.js)] (https://github.com/jh27kim/chartDashbaord)
+   - Backend (spring)
+      - [Web Server] (https://github.com/jh27kim/consumer)
+      - [WAS (Twitter API + NLP)] (https://github.com/jh27kim/producer)
 
 3. Trending Issue Heatmap
-   - Front/Back (Django): 
+   - [Front/Back (Django)] (https://github.com/jh27kim/NewsTreeMap)
 
-4. 
+4. Deepfake Classification
+   - [Python] (https://github.com/jh27kim/DeepFake)
+
+5. 
