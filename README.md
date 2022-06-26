@@ -12,10 +12,11 @@
 
 #### 2022.04 ~ Present
 2. Twitter Dashboard (Ongoing) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=appveyor&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=appveyor&logoColor=%234FC08D)
+   - **For Overall Architecture, Check WAS Repo**
    - [Front (vue.js)](https://github.com/jh27kim/chartDashbaord)
    - Backend (spring)
-      - [Web Server](https://github.com/jh27kim/consumer) (Login/Register/User, etc)
-      - [WAS (Twitter API + NLP)](https://github.com/jh27kim/producer) (Twitter API, Preprocessing Data, Chart Data)
+      - [Web Server](https://github.com/jh27kim/consumer)
+      - [WAS (Twitter API + NLP)](https://github.com/jh27kim/producer)
 
 #### 2022-01 ~ 2022-04
 3. Trending Issue Heatmap ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=appveyor&logoColor=white)
