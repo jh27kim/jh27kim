@@ -6,8 +6,10 @@
 
 
 #### 2022.01 ~ Present
-1. 3D Line Cloud (Ongoing) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=appveyor&logoColor=white)
-   - Privacy Preserving Line Cloud: No details about this project can be revealed yet ! Will be uploaded later this year 2022.
+1. 3D Line Cloud (CVPR 2023) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=appveyor&logoColor=white)
+   - Paired-Point Lifting for Enhanced Privacy-Preserving Visual Localization
+   - Official implementation (https://github.com/jh27kim/ppl)
+   - Paper (Coming Soon)
 
 
 #### 2022.04 ~ Present
