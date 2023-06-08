@@ -5,14 +5,14 @@
 #### Interested in: 3D Vision (SfM, SLAM), Cloud Computing (Distributed Storage, Filesystem), Practical Applications (Cool Stuffs...)
 
 
-#### 2022.01 ~ Present
+#### 2022.01 ~ 2023.02
 1. 3D Line Cloud (CVPR 2023) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=appveyor&logoColor=white)
    - Paired-Point Lifting for Enhanced Privacy-Preserving Visual Localization
    - Official implementation (https://github.com/jh27kim/ppl)
    - Paper (Coming Soon)
 
 
-#### 2022.04 ~ Present
+#### 2022.04 ~ 2022.10
 2. Twitter Dashboard (Ongoing) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=appveyor&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=appveyor&logoColor=%234FC08D)
    - **For Overall Architecture, Check WAS Repo**
    - [Front (vue.js)](https://github.com/jh27kim/chartDashbaord)
