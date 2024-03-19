@@ -2,7 +2,7 @@
 ### For more detail, please click on the link 
 ### Project are listed in time descending order
 
-#### Interested in: 3D Vision (SfM, SLAM), Cloud Computing (Distributed Storage, Filesystem), Practical Applications (Cool Stuffs...)
+#### Interested in: 3D Vision (SfM, SLAM), Cloud Computing (Distributed Storage, Filesystem)
 
 
 #### 2022.01 ~ 2023.02
